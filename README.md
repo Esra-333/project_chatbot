@@ -13,3 +13,8 @@ Link to the deployed project page
 http://esra-333.tech/
 Link to your LinkedIn profile
 https://www.linkedin.com/in/esra-omer-296494257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+![屏幕截图 29-06-2024 23 39 19](https://github.com/Esra-333/project_chatbot/assets/140227176/56fc9605-9818-4c4d-892a-9ad9b5041451)
+![image](https://github.com/Esra-333/project_chatbot/assets/140227176/1fa8afac-2812-46c0-932b-a8f01a5c6140)
+
+
